@@ -1,0 +1,22 @@
+{
+  "name": "@scentre/theme",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    "./theme.css": "./dist/theme.css",
+    "./scentre": {
+      "types": "./dist/scentre.d.ts",
+      "default": "./dist/scentre.js"
+    }
+  },
+  "scripts": {
+    "build": "pnpm exec astryx theme build ./src/theme.ts --out ./dist/theme.css"
+  },
+  "dependencies": {
+    "@astryxdesign/core": "^0.1.2"
+  }
+}

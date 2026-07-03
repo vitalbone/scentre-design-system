@@ -1,0 +1,107 @@
+{
+  "color": {
+    "foundation": {
+      "$type": "color",
+      "scentre-red": {
+        "$value": "#FF1C33",
+        "$description": "Scentre Red"
+      },
+      "scentre-dark-red": {
+        "$value": "#D70034",
+        "$description": "Scentre Dark Red"
+      },
+      "scentre-raspberry": {
+        "$value": "#990F5A",
+        "$description": "Scentre Raspberry"
+      },
+      "white": {
+        "$value": "#FFFFFF",
+        "$description": "White"
+      },
+      "light-beige": {
+        "$value": "#F7F2EB",
+        "$description": "Light Beige"
+      },
+      "beige": {
+        "$value": "#E6D7CE",
+        "$description": "Beige"
+      },
+      "tan": {
+        "$value": "#D7BEAA",
+        "$description": "Tan"
+      },
+      "silver": {
+        "$value": "#BCBCBC",
+        "$description": "Silver"
+      },
+      "iron": {
+        "$value": "#424242",
+        "$description": "Iron"
+      },
+      "charcoal": {
+        "$value": "#424242",
+        "$description": "Charcoal"
+      },
+      "pink": {
+        "$value": "#EBC3FF",
+        "$description": "Pink"
+      },
+      "electric-pink": {
+        "$value": "#FF8AFC",
+        "$description": "Electric Pink"
+      },
+      "purple": {
+        "$value": "#BD60FF",
+        "$description": "Purple"
+      },
+      "dark-purple": {
+        "$value": "#462F78",
+        "$description": "Dark Purple"
+      },
+      "light-blue": {
+        "$value": "#A8CAFD",
+        "$description": "Light Blue"
+      },
+      "azure": {
+        "$value": "#658CF4",
+        "$description": "Azure"
+      },
+      "blue": {
+        "$value": "#324AC8",
+        "$description": "Blue"
+      },
+      "dark-blue": {
+        "$value": "#21285B",
+        "$description": "Dark Blue"
+      },
+      "yellow": {
+        "$value": "#FFDD99",
+        "$description": "Yellow"
+      },
+      "mustard": {
+        "$value": "#FFAA39",
+        "$description": "Mustard"
+      },
+      "orange": {
+        "$value": "#FF5500",
+        "$description": "Orange"
+      },
+      "light-green": {
+        "$value": "#D4F982",
+        "$description": "Light Green"
+      },
+      "green": {
+        "$value": "#ABDF48",
+        "$description": "Green"
+      },
+      "dark-green": {
+        "$value": "#338743",
+        "$description": "Dark Green"
+      },
+      "maroon": {
+        "$value": "#440E37",
+        "$description": "Maroon"
+      }
+    }
+  }
+}

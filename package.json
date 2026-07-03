@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "astryx": "node node_modules/@astryxdesign/cli/bin/astryx.mjs",
+    "build:theme": "pnpm --filter @scentregroup/theme run build",
+    "dev": "pnpm --filter @scentregroup/demo run dev"
+  },
+  "devDependencies": {
+    "@astryxdesign/cli": "^0.1.2"
+  }
+}
